@@ -14,6 +14,7 @@ It differs as follows:
  * [Added nearest points wrapper](https://github.com/paulsmith/gogeos/compare/master...onXmaps:gogeos:nearest-points)
  * [Added `go.mod`](https://github.com/paulsmith/gogeos/compare/master...onXmaps:gogeos:go-mod)
  * [Updated Readme](https://github.com/paulsmith/gogeos/compare/master...onXmaps:gogeos:readme)
+ * [Removed buggy example](https://github.com/paulsmith/gogeos/compare/master...onXmaps:gogeos:examples)
 
 Quick start
 -----------
